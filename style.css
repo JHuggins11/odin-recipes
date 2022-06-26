@@ -16,3 +16,7 @@ h2 {
     font-weight: lighter;
     text-decoration: underline;
 }
+
+.recipe-heading {
+    font-family: Georgia, Garamond, sans-serif;
+}
