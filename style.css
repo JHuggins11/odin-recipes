@@ -17,6 +17,10 @@ h2 {
     text-decoration: underline;
 }
 
+.recipe-title {
+    color: rgb(168, 134, 61);
+}
+
 .recipe-heading {
     font-family: Georgia, Garamond, sans-serif;
 }
