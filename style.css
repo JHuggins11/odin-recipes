@@ -24,3 +24,8 @@ h2 {
 .recipe-heading {
     font-family: Georgia, Garamond, sans-serif;
 }
+
+#homepage-link {
+    font-size: 17px;
+    font-style: italic;
+}
